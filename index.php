@@ -6,7 +6,7 @@
 </head>
 <body>
 	<?php
-    echo"PHP en la nube");
+    echo("PHP en la nube");
 	?>
 </body>
 </html>
