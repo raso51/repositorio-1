@@ -1,0 +1,77 @@
+
+.test-box{
+	width: 550px;
+	height: 75px;
+	background-color: lightblue;
+	border-radius: 25px;
+	font-size: 30px;
+	margin: 10px;
+	text-align: center;
+	color: purple;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.table-1{
+	width: 475px;
+	height: 225px;
+	background-color: lightblue;
+	border-radius: 20px;
+	text-align: center;
+	font-size: 24px;
+	margin: 5px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.nombre-text{
+	width: 300px;
+	height: 25px;
+	background-color: #74CAE3;
+	color: darkblue;
+	font-size: 20px;
+}
+.apellido-text{
+	width: 300px;
+	height: 25px;
+	background-color: #74CAE3;
+	color: darkblue;
+	font-size: 20px;
+}
+.edad-text{
+	width: 300px;
+	height: 25px;
+	background-color: #74CAE3;
+	color: darkblue;
+	font-size: 20px;
+	text-align: center;
+}
+.dni-text{
+	width: 300px;
+	height: 25px;
+	background-color: #74CAE3;
+	color: darkblue;
+	font-size: 20px;
+	text-align: center;
+}
+
+.correo-text{
+	width: 300px;
+	height: 25px;
+	background-color: #74CAE3;
+	color: darkblue;
+	font-size: 20px;
+}
+
+.boton-guardar{
+	width: 225px;
+	height: 50px;
+	background-color: #12AAD6;
+	border-radius: 15px;
+	font-size: 25px;
+	border-color: darkblue;
+	border-width: 2px;
+	margin: 10px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
