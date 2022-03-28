@@ -2,9 +2,12 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Conexion a BD</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>TRABAJO TR1 CLOUD COMPUTING</title>
 </head>
 <body>
+	<div class="test-box"><h1>Registro de Datos</h1></div>
+	<form action="validar.php" method="post">
 	<table border="3" class="table-1">
 		<tr>
 			<th>Nombres</th>
